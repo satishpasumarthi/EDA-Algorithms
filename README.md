@@ -3,7 +3,7 @@
 This repository contains 3 EDA Algorithms written in C++ <br>
 
 1) **Kernighan-Lin’s	bi-partitioning	algorithm**<br>	
-*Objective*	is	to	minimize	the	number	of	edges	in	the	cut <br>
+*Objective*	:	To	minimize	the	number	of	edges	in	the	cut <br>
 Input:	a	set	of	even	number	of	nodes	and	a	set	of	edges.	If	there	are	n	nodes,	the	node indices	are	continuous	integers	from	1	to	n.	 <br>
 Format:	<br>
 • The	first	line	has	two	numbers	–	the	number	of	nodes	followed	by	the	number	of	edges.	<br>
