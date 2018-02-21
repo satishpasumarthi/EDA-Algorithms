@@ -15,6 +15,8 @@ Output:		<br>
 
 2) **Min cost A\* Search** <br>
 *Objective:* To find the min-cost path between source and destination on a (manhattan)	grid	with	one	blockage	and	one	free-island<br>
+Inline-style: 
+![alt text](https://github.com/satishpasumarthi/EDA-Algorithms/blob/master/Grid.png "Grid Example")<br>
 Input:	grid,	source	location,	target	location,	a	blockage	and	a	free	island.	<br>
 Format:		<br>
 Line	1	shows	number	of	rows,	followed	by	number	of	columns,	of	the	grid.	<br>
